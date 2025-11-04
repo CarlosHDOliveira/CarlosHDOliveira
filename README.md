@@ -16,6 +16,30 @@
 ---
 
 ### ⚙️ Tecnologias que uso
-<!-- Skill Icons -->
-[![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,python,django,postgres,redis,docker,aws,linux,git&perline=9)](https://skillicons.dev)
+<div align="center">
 
+  <!-- Back-end -->
+  <strong>Back‑end</strong><br/>
+  [![Back-end](https://skillicons.dev/icons?i=php,laravel&perline=10)](https://skillicons.dev)
+
+  <br/>
+
+  <!-- Front-end -->
+  <strong>Front‑end</strong><br/>
+  [![Front-end](https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,electron&perline=12)](https://skillicons.dev)
+
+  <br/>
+
+  <!-- Infra / DevOps -->
+  <strong>Infra / DevOps</strong><br/>
+  [![Infra](https://skillicons.dev/icons?i=linux,docker&perline=10)](https://skillicons.dev)
+
+  <br/>
+
+  <!-- Painéis & extras (badges via Shields.io) -->
+  <strong>Painéis & extras</strong><br/>
+  <a href="#"><img alt="Slim Framework" src="https://img.shields.io/badge/Slim%20Framework-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+  <a href="#"><img alt="CyberPanel" src="https://img.shields.io/badge/CyberPanel-1E90FF?style=for-the-badge"></a>
+  <a href="#"><img alt="VPS Linux" src="https://img.shields.io/badge/VPS%20Linux-000?style=for-the-badge&logo=linux&logoColor=white"></a>
+
+</div>
