@@ -1,7 +1,7 @@
-<h1 align="center">Fala! Eu sou o Carlos Henrique 👋</h1>
-<p align="center">Dev <b>Full‑Stack</b> focado em JS/TS • apaixonado por DX e boas práticas</p>
+<h2>Fala! Eu sou o Carlos Henrique 👋</h2>
+<p>Dev Full-Stack • PHP/Laravel • Vue/React/Next • Docker/Linux</p>
 
-<p align="center">
+<p>
   <a href="mailto:henrique.ads2014@gmail.com">
     <img alt="E-mail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -10,12 +10,30 @@
   </a>
 </p>
 
-### 🧠 Linguagens (por commits)
-![Linguagens por commits](./metrics.svg)
+---
+
+### Estatísticas
+<p align="center">
+  <!-- Detalhes gerais -->
+  <img height="200" src="profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" />
+  <!-- Linguagens por commits (não por bytes) -->
+  <img height="200" src="profile-summary-card-output/github/2-most-commit-language.svg" alt="Top languages by commit" />
+</p>
+<p align="center">
+  <!-- Stats compactas -->
+  <img height="200" src="profile-summary-card-output/github/3-stats.svg" alt="Stats" />
+  <!-- Horário mais produtivo -->
+  <img height="200" src="profile-summary-card-output/github/4-productive-time.svg" alt="Productive time" />
+</p>
+
+<!-- Streak (funciona melhor com privados ativados no perfil; ver passo 3) -->
+<p align="center">
+  <img alt="Streak de contribuições" src="https://streak-stats.demolab.com?user=carloshdooliveira&hide_border=true" />
+</p>
 
 ---
 
-### ⚙️ Tecnologias que uso
+### Tecnologias que uso
 <div align="center">
 
   <!-- Back-end -->
@@ -27,6 +45,14 @@
   <!-- Front-end -->
   <strong>Front‑end</strong><br/>
   [![Front-end](https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,electron&perline=12)](https://skillicons.dev)
+
+  <br/>
+
+  
+  <!-- Bancos de dados -->
+  <strong>Bancos de dados</strong><br/>
+  [![Databases](https://skillicons.dev/icons?i=mysql&perline=10)](https://skillicons.dev)
+  <a href="#"><img alt="Firebird" src="https://img.shields.io/badge/Firebird-FF6C37?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMSIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMTIgM2M0LjUgMCA4IDMuNSA4IDggMCAzLjMtMS45IDYuMS00LjcgNy41LjQtMS40LjYtMyAuNi00LjUgMC0zLjktMi44LTcuMi02LjUtNy44IDEuMS0xLjIgMi44LTEuOSA0LjYtMS45eiIgZmlsbD0iI0ZGMDAwMCIvPjwvc3ZnPg=="></a>
 
   <br/>
 

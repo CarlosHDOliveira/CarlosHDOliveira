@@ -1,7 +1,6 @@
 name: Metrics (linguagens por commits)
 on:
-  push:
-   branches: ["main", "development"]
+  schedule: [{ cron: "0 6 1 * *" }]
   workflow_dispatch:
 permissions:
   contents: write
