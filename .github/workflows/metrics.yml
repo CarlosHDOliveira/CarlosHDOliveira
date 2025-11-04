@@ -5,21 +5,18 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: carlosHDOliveira
-          template: classic
-          filename: metrics.svg
-          base: header
-          config_timezone: America/Sao_Paulo
-
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_sections: most-used
-          plugin_languages_limit: 8
-          plugin_languages_details: percentage
+          USERNAME: carlosHDOliveira
+          BRANCH_NAME: "main"
+          UTC_OFFSET: -3
+          EXCLUDE: ""
+          AUTO_PUSH: true
