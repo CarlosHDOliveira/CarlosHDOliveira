@@ -10,6 +10,9 @@
   </a>
 </p>
 
+### 🧠 Linguagens (por commits)
+![Linguagens por commits](./metrics.svg)
+
 ---
 
 ### ⚙️ Tecnologias que uso
