@@ -1,4 +1,4 @@
-<h2>Fala! Eu sou o Carlos Henrique 👋</h2>
+<h2>Olá! Eu sou o Carlos Henrique 👋</h2>
 <p>Dev Full-Stack • PHP/Laravel • Vue/React/Next • Docker/Linux</p>
 
 <p>
@@ -13,28 +13,23 @@
 ---
 
 ### Estatísticas
-<p align="center">
+<p>
   <!-- Detalhes gerais -->
-  <img height="200" src="profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" />
+  <img height="200" src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
   <!-- Linguagens por commits (não por bytes) -->
-  <img height="200" src="profile-summary-card-output/github/2-most-commit-language.svg" alt="Top languages by commit" />
+  <img height="200" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages by commit" />
 </p>
-<p align="center">
+<p>
   <!-- Stats compactas -->
-  <img height="200" src="profile-summary-card-output/github/3-stats.svg" alt="Stats" />
+  <img height="200" src="profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
   <!-- Horário mais produtivo -->
-  <img height="200" src="profile-summary-card-output/github/4-productive-time.svg" alt="Productive time" />
-</p>
-
-<!-- Streak (funciona melhor com privados ativados no perfil; ver passo 3) -->
-<p align="center">
-  <img alt="Streak de contribuições" src="https://streak-stats.demolab.com?user=carloshdooliveira&hide_border=true" />
+  <img height="200" src="profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
 </p>
 
 ---
 
 ### Tecnologias que uso
-<div align="center">
+<div>
 
   <!-- Back-end -->
   <strong>Back‑end</strong><br/>
