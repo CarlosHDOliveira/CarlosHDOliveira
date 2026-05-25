@@ -12,22 +12,6 @@
 
 ---
 
-### Estatísticas
-<p>
-  <!-- Detalhes gerais -->
-  <img height="200" src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
-  <!-- Linguagens por commits (não por bytes) -->
-  <img height="200" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages by commit" />
-</p>
-<p>
-  <!-- Stats compactas -->
-  <img height="200" src="profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
-  <!-- Horário mais produtivo -->
-  <img height="200" src="profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
-</p>
-
----
-
 ### Tecnologias que uso
 <div>
 
